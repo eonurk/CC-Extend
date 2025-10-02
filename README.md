@@ -17,7 +17,7 @@ pip install undetected-chromedriver selenium
 ## Run
 
 ```bash
-python claude_chat_terminal.py
+python CC.py
 ```
 
 - A Chrome window opens — log in to Claude.ai if needed.
